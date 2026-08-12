@@ -11,6 +11,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hongdae-cafe-tour.namanavi.com/contact.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hongdae-cafe-tour.namanavi.com/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -192,6 +197,21 @@
   </url>
   <url>
     <loc>https://hongdae-cafe-tour.namanavi.com/posts/post-5.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hongdae-cafe-tour.namanavi.com/posts/tp-link-20260812-tp3-0016.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hongdae-cafe-tour.namanavi.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hongdae-cafe-tour.namanavi.com/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
